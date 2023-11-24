@@ -7,20 +7,6 @@ FIREAC is the best free FiveM anti-cheat made by Amirreza Jaberi for free for yo
 
 ---
 
-### Advertise :
-
-<table align='center'><tr><td><h4 align='center'>Fiveguard</h4></tr></td>
-<tr><td>
-For better <b>paid anticheat</b> check out <b>https://store.fiveguard.ac</b>.
-
-We are **able to provide** this **free product** because of help of **https://fiveguard.net**.
-
-**fiveguard is best fivem anticheat**
-
-</td></tr></table>
-
----
-
 ### Requirements :
 
 <table align='center'>
