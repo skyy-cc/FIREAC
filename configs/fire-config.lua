@@ -23,15 +23,6 @@ FIREAC.ServerConfig             = {
     Port = "30120",
 }
 
---【 𝗟𝗼𝗴 𝗼𝗳 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 】--
-FIREAC.Log                      = {
-    Ban        = "",
-    Error      = "",
-    Connect    = "",
-    Disconnect = "",
-    Exoplosion = "",
-}
-
 --【 𝗖𝗵𝗮𝘁 𝗦𝗲𝘁𝘁𝗶𝗻𝗴𝘀 】--
 FIREAC.ChatSettings             = {
     Enable      = true,
