@@ -1,15 +1,9 @@
---
--- FIREAC (https://github.com/AmirrezaJaberi/FIREAC)
--- Copyright 2022-2023 by Amirreza Jaberi (https://github.com/AmirrezaJaberi)
--- Licensed under the GNU Affero General Public License v3.0
---
-
 -- 【 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲 𝗠𝗲𝘁𝗮𝗱𝗮𝘁𝗮 】--
 fx_version 'cerulean'
 game 'gta5'
 
 -- 【 𝗜𝗡𝗙𝗢 】--
-author 'Amirreza Jaberi'
+author 'Amirreza Jaberi & Skyy'
 description 'FIERAC'
 version '6.2.3'
 

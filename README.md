@@ -269,27 +269,3 @@ exports['FIREAC']:FIREAC_ACTION("WARN", reason, details)
 You can install anti-cheat with tutorial of FIREAC website in **https://amirrezajaberi.ir/fireac**
 
 ---
-
-### License :
-
-<table><tr><td><h4 align='center'>Legal Notices</h4></tr></td>
-<tr><td>
-FIREAC
-
-Copyright (C) 2022-2023 [FIREAC](https://github.com/AmirrezaJaberi/FIREAC/) by Amirreza Jaberi
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.
-If not, see <https://www.gnu.org/licenses/>
-
-</td></tr></table>
