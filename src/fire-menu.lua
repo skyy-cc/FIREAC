@@ -11,7 +11,6 @@ local Unban           = {}
 local bannedUsers     = {}
 local Whitelist       = {}
 local InSpectatorMode = false
-local SpacateCoords   = nil
 local TargetSpectate  = nil
 
 RegisterNetEvent('FIREAC:AddAdminOption')
